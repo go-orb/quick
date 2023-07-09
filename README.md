@@ -1,6 +1,6 @@
 # quick
 
-Quick is the Quickstart entry for [go-micro.dev/v5](https://github.com/go-orb/go-micro) it mimics the behaviour of 
+Quick is the Quickstart entry for [github.com/go-orb/go-orb](https://github.com/go-orb/go-orb) it mimics the behaviour of 
 `go-micro.dev/v4`.
 
 ## WIP

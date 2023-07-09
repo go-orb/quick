@@ -5,9 +5,9 @@ package quick
 
 import (
 	"github.com/google/wire"
-	"go-micro.dev/v5/types"
-	"go-micro.dev/v5/log"
-	"go-micro.dev/v5/registry"
+	"github.com/go-orb/go-orb/types"
+	"github.com/go-orb/go-orb/log"
+	"github.com/go-orb/go-orb/registry"
 )
 
 func newService(
